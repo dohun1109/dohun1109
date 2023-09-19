@@ -21,4 +21,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohun1109&show_icons=true&locale=en&theme=outrun" alt="dohun1109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohun1109&theme=outrun" alt="dohun1109" /></p>
+</br>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=HTML-CSS&theme=synthwave" alt="dohun1109"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=SpringStudy&theme=synthwave" alt="dohun1109"/>
+    </br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=Capston2023&theme=synthwave" alt="dohun1109"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=ITshirt&theme=synthwave" alt="dohun1109"/>
+</p>
 
