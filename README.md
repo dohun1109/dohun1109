@@ -21,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohun1109&show_icons=true&locale=en&theme=outrun" alt="dohun1109" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohun1109&theme=outrun" alt="dohun1109" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=jolly&show_icons=true)
