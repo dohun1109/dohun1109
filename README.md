@@ -26,7 +26,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohun1109&theme=outrun" alt="dohun1109" /></p>
 </br>
 </br>
-## Popular repositories👋
+<h2>Popular repositories👋</h2>
 <hr>
 </br>
 
