@@ -3,15 +3,14 @@
 <h1 align="left">Hi 👋, I'm This is Dohun Kim, a developer who codes dreams.</h1>
 <h3 align="left">I am workin with the mission of change the world a better than yesterday!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dohun1109&label=Profile%20views&color=0e75b6&style=flat" alt="dohun1109" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dohun1109&label=Profile%20views&color=0e75b6&style=flat" alt="dohun1109" /> 
+<a href="https://github.com/dohun1109">
+    <img align="right" src="https://github.com/dohun1109/dohun1109/assets/108252423/c84b76c4-6771-4b78-bf6c-188ad2bd150e" width="200"/>
+  </a></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" /></a>
-  <a href="https://github.com/dohun1109">
-    <img align="right" src="https://github.com/dohun1109/dohun1109/assets/108252423/c84b76c4-6771-4b78-bf6c-188ad2bd150e" width="300"/>
-  </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
