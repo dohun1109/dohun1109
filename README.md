@@ -30,10 +30,10 @@
 <hr>
 </br>
 
-<p><a href="https://github.com/dohun1109/HTML-CSS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=HTML-CSS&theme=synthwave" alt="dohun1109"/></a>
-    <a href="https://github.com/dohun1109/SpringStudy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=SpringStudy&theme=synthwave" alt="dohun1109"/></a>
-    <a href="https://github.com/dohun1109/Capston2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=Capston2023&theme=synthwave" alt="dohun1109"/></a>
+<p><a href="https://github.com/dohun1109/Capston2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=Capston2023&theme=synthwave" alt="dohun1109"/></a>
     <a href="https://github.com/dohun1109/ITshirt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=ITshirt&theme=synthwave" alt="dohun1109"/></a>
+    <a href="https://github.com/dohun1109/SpringStudy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=SpringStudy&theme=synthwave" alt="dohun1109"/></a>
+    <a href="https://github.com/dohun1109/HTML-CSS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=HTML-CSS&theme=synthwave" alt="dohun1109"/></a>
 </p> 
 
 </br></br></br></br>
