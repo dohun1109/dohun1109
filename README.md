@@ -1,7 +1,7 @@
 ### About me
 
 <h1 align="left">Hi 👋, I'm This is Dohun Kim, a developer who codes dreams.</h1>
-<h3 align="left">I am workin with the mission of change the world a better than yesterday! <br>return growingPains ? growth : False</h3>
+<h3 align="left">I am workin with the mission of change the world a better than yesterday! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dohun1109&label=Profile%20views&color=0e75b6&style=flat" alt="dohun1109" /> 
 <a href="https://github.com/dohun1109">
