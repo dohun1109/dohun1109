@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" /></a>
 </p>    
-</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <hr>
 <p align="left">  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
