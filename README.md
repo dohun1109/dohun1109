@@ -6,33 +6,9 @@
     <img src="https://github.com/dohun1109/dohun1109/assets/108252423/4ff6a21b-493f-4a6a-bb7a-16d4c55e1b77" width="90%"/></a>
 </h1>
 
-<h3 align="center">
+<h3 align="center"><strong>
     👨‍💻 I am workin with the mission of change the world a better than yesterday!👨‍💻
 </h3>
-  
-<h2 style="display: inline-block; vertical-align: middle;"> 🎞 Career : </h2>
-<ul><h3 align="left"><strong>
-        영남이공대학교 멋쟁이사자처럼 12기(영남이공대학교 1기) 운영진</h3>
-</ul>
-
-<h2>📫 Contact</h2>
-<ul>
-<h3 align="left"><strong>Instagram:
-<a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" />
-</a>
-</h3></ul>  
-
-<h2>🛠 Tech Stack</h2>
-<ul>
-<h3 align="center"><strong>Language <br> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></h3>
-  <h3 align="center" height="20"><strong>Framework  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
-  </h3>
-</ul>
-
 <h2>📊 GitHub Statistics</h2>
 <ul>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohun1109&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="dohun1109" /></p>
@@ -46,6 +22,29 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dohun1109">
 
 </ul>
+  
+<h2 style="display: inline-block; vertical-align: middle;"> 🎞 Career : </h2>
+<ul><h3 align="left"><strong>
+        영남이공대학교 멋쟁이사자처럼 12기(영남이공대학교 1기) 운영진</h3>
+</ul>
+
+<h2>🛠 Tech Stack</h2>
+<ul>
+<h3 align="center"><strong>Language <br> 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></h3>
+  <h3 align="center" height="20"><strong>Framework  <br>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
+  </h3>
+</ul>
+
+<h2>📫 Contact</h2>
+<ul>
+<h3 align="left"><strong>Instagram:
+<a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" />
+</a>
+</h3></ul>  
 </br>
 
 
