@@ -1,7 +1,9 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;section=header&amp;height=130&amp;animation=twinkling&amp;" alt=header></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;section=header&amp;height=130&amp;animation=twinkling&amp;" alt=header>
+    <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=7BC9AF&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+To+DOHUN1109+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>  
+</p>
 <h1 align="center">
     
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=7BC9AF&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+To+DOHUN1109+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>    
+  
 <a href="https://github.com/dohun1109" align="center">
     <img src="https://github.com/dohun1109/dohun1109/assets/108252423/4ff6a21b-493f-4a6a-bb7a-16d4c55e1b77" width="90%"/></a>
 </h1>
