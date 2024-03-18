@@ -1,47 +1,53 @@
-### About me
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;section=header&amp;height=130&amp;animation=twinkling&amp;" alt=header></p>
+<h1 align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=7BC9AF&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+To+DOHUN1109'+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</h1>
 
-<h1 align="left">Hi 👋, I'm This is Dohun Kim, a developer who codes dreams.</h1>
-<h3 align="left">I am workin with the mission of change the world a better than yesterday! </h3>
+<h3 align="center">
+    👨‍💻 I am workin with the mission of change the world a better than yesterday!👨‍💻 
+</h3>
+  
+<h2 style="display: inline-block; vertical-align: middle;"> 🎞 Career : </h2>
+<ul><h3 align="left"><strong>
+        영남이공대학교 멋쟁이사자처럼 12기(영남이공대학교 1기) 운영진</h3>
+</ul>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dohun1109&label=Profile%20views&color=0e75b6&style=flat" alt="dohun1109" /> 
-<a href="https://github.com/dohun1109">
-    <img align="right" src="https://github.com/dohun1109/dohun1109/assets/108252423/c84b76c4-6771-4b78-bf6c-188ad2bd150e" width="200"/>
-  </a></p>
-  <h3 style="display: inline-block; vertical-align: middle;"> 🎞 Career : </h3>
-- 영남이공대학교 멋쟁이사자처럼 12기(영남이공대학교 1기) 운영진
+<h2>📫 Contact</h2>
+<ul>
+<h3 align="left"><strong>Instagram:
+<a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" />
+</a>
+</h3></ul>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/dh._.n1109k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dh._.n1109k" height="30" width="40" /></a>  
-
-<h3 align="left">Languages and Tools:</h3>
-<hr>
-<p align="left">  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<h2>🛠 Tech Stack</h2>
+<ul>
+<h3 align="left"><strong>Language : 
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"></h3>
+  <h3 align="left" height="20"><strong>Framework : 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"></p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white"> 
+  </h3>
+</ul>
 <br>
-<hr>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohun1109&show_icons=true&locale=en&layout=compact&theme=outrun" alt="dohun1109" /></p>
+<h2>🏅 Solved.AC</h2>
+<ul>
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dohun1109">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohun1109&show_icons=true&locale=en&theme=outrun" alt="dohun1109" /></p>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohun1109&theme=outrun" alt="dohun1109" /></p>
-</br>
-</br>
-<h2>Popular repositories👋</h2>
-<hr>
-</br>
-</br>
-</br>
+<h2>📊 GitHub Statistics</h2>
+<ul>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dohun1109&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="dohun1109" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dohun1109&show_icons=true&locale=en&theme=ambient_gradient" alt="dohun1109" /></p>
+
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dohun1109&theme=ambient_gradient" alt="dohun1109" /></p>-->
+</ul>
 </br>
 
-<p><a href="https://github.com/dohun1109/Capston2023"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=Capston2023&theme=synthwave" alt="dohun1109"/></a>
-    <a href="https://github.com/dohun1109/ITshirt"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=ITshirt&theme=synthwave" alt="dohun1109"/></a>
-    <a href="https://github.com/dohun1109/SpringStudy"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=SpringStudy&theme=synthwave" alt="dohun1109"/></a>
-    <a href="https://github.com/dohun1109/HTML-CSS"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dohun1109&repo=HTML-CSS&theme=synthwave" alt="dohun1109"/></a>
-</p> 
 
-</br></br></br></br>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&reversal=true&section=footer"></p>
+
 
 
