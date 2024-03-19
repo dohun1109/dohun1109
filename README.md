@@ -1,5 +1,5 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;section=header&amp;height=130&amp;animation=twinkling&amp;" alt=header>
-    <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=7BC9AF&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+To+DOHUN1109+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>  
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&customColorList=1&amp;section=header&amp;height=170&amp;animation=twinkling&amp;" alt=header>
+    <a href="https://git.io/typing-svg" align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Protest+Strike&size=25&duration=2500&pause=1500&color=gradient&customColorList=1&background=9A41FF00&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+To+DOHUN1109+Github+%F0%9F%91%8B" alt="Typing SVG" /></a>  
 </p>
 <h1 align="center">
     
@@ -50,7 +50,7 @@
 </br>
 
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=timeGradient&reversal=true&section=footer"></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&reversal=true&section=footer"></p>
 
 
 
