@@ -52,5 +52,5 @@
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&reversal=true&section=footer"></p>
 
-
+</br>
 
