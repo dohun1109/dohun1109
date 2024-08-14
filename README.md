@@ -48,7 +48,9 @@
 </a>
 </h3></ul>  
 </br>
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=1&reversal=true&section=footer"></p>
 
